@@ -1,0 +1,7 @@
+{START}Your rusty red car rumbles down the paved highway, shaking as you press down on the accelerator. It sputters 3 times and slows to a halt, completely dead. You get out of the smoking car and look around. You can [look] under the hood, go [back] to the gas station you had passed earlier, continue [forward (Straight1)] down the road, go [right] and try to find a town on the other side of the forest, or go [left] through the field.{e}
+
+{Straight 1}You walk straight ahead down the paved road and coem to a bridge spanning the width of a river. However the bridge is broken and out of use. You may however, [swim] across the river, go [right] and wade downstream, go [left] and see what is upriver, or turn [back] and head to where your car had been.{e}
+
+{Back 1}The gas station had been quite a ways down the [road], but still you begin to walk. However, the light of day begins to fade as the sun sets. A yawn overcomes you, and you suddenly realize that you are goign to need [shelter] for the night.{e}
+
+{Look 1}You open the hood and are hit in the face by a blast of hot steam. After coughing and waving the smoke away, you see something seriosuly wrong. You can try your luck and [28%fix] it or [close] the hood.{e}
