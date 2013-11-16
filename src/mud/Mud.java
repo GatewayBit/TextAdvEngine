@@ -15,6 +15,7 @@ public class Mud
     
     private static void game()
     {
+        // Test change
         HashMap roomData;
         roomData = LoadRooms.formatData("testing.txt");
         
